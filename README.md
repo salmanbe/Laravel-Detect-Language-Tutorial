@@ -5,9 +5,9 @@
 
 This is the source code of Laravel detect language api video tutorial available on youtube. This tutorial use Laravel, detectlanguage plugin, bootstrap 5 and html5.
 
-[![Laravel Detect Language](https://img.youtube.com/vi/ljoFvgCS2og/0.jpg)](https://www.youtube.com/watch?v=ljoFvgCS2og)
+[![Laravel Detect Language](https://img.youtube.com/vi/kWkTvLJKzhc/0.jpg)](https://www.youtube.com/watch?v=kWkTvLJKzhc)
 
-- [View complete video tutorial on youtube](https://www.youtube.com/watch?v=ljoFvgCS2og).
+- [View complete video tutorial on youtube](https://www.youtube.com/watch?v=kWkTvLJKzhc).
 - [Visit youtube channel](https://www.youtube.com/@SCTechStudio/videos).
 - [Visit author's website](https://www.salman.be).
 - [Detect Language plugin credit](https://github.com/detectlanguage/detectlanguage-php).
